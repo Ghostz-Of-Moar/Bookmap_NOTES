@@ -1,4 +1,4 @@
-"#automap RITHMIC,,,,,,,",,,,,,,
+#automap RITHMIC,,,,,,,,,,,,,,
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER, DRAW_NOTE_PRICE_HORIZONTAL_LINE
 ESM5,5925,W_EM_+1,#000000,#F2F2F2,left,10,TRUE
 ESM5,5704.5,W_EM_-1,#000000,#F2F2F2,left,10,TRUE
